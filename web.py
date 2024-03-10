@@ -54,9 +54,6 @@ st.set_page_config(
     menu_items=None,
 )
 st.header("📖 EPUBHV, a toolset to convert your EPUB", divider="rainbow")
-st.caption(
-    "Author: [@yihong0618](https://github.com/yihong0618) | [GitHub](https://github.com/yihong0618/epubhv) | [PyPI](https://pypi.org/project/epubhv/)",
-)
 
 
 def run():
